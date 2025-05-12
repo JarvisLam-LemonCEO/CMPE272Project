@@ -1,1 +1,1 @@
-# CMPE272Project
+# CMPE272 Project - Central Marketplace
